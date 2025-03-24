@@ -1,0 +1,4 @@
+student_id,avg_core_subject_grades,attendance_rate,behavior_incidents,engagement,family_risk,counselor_checkin
+101,82,95,0,88,0,1
+102,74,85,3,70,1,0
+103,88,90,1,92,0,1

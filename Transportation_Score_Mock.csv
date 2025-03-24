@@ -1,0 +1,4 @@
+route,route_optimization,fleet_forecasting,mobility_planning
+Corridor 1,80,70,60
+Urban 2,65,50,55
+Rural 3,75,85,90

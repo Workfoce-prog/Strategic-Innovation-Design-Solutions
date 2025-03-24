@@ -1,0 +1,4 @@
+system,threat_detection_score,user_risk_score,response_automation_level
+Infra A,88,65,60
+Portal B,70,45,50
+Network C,95,85,75
